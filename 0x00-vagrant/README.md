@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# 0x02-vi
-=======
 General
 What is a zero-day
 What is a virtual machine
@@ -20,4 +17,3 @@ How to write good READMEs
 How to commit
 How to write helpful commit messages
 How to push code
->>>>>>> 71bd578a0d8b9ffda7f6035c45244632a2760920
